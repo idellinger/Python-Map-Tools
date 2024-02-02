@@ -1,0 +1,10 @@
+User can enter a location and some options and have a customizeable map printed for them.
+
+
+
+1. Challenges:
+    It takes a long time to make the colorful maps, scaling with node density and complexity.
+
+2. Solutions?
+     What are the options that take the least amount of resources and provide the best result.
+        - Look at alternate formulas or variations of the current syntax to optimize performance.
